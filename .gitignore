@@ -1,0 +1,29 @@
+# Environment files
+.env
+.env.local
+
+# Binaries
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.out
+botteleabsensi
+
+# Test artifacts
+*.test
+coverage.out
+coverage.html
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Tools & caches
+.tools/
+.cache/
+
